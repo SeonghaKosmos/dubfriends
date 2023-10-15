@@ -1,0 +1,19 @@
+.profile-header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+.back-button{
+    display: flex;
+    flex-direction: row;
+}

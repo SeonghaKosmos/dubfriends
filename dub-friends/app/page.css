@@ -1,0 +1,22 @@
+.App{
+    width: 100vw;
+    height: 100vh;
+}
+
+.map-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+.main{
+    display:flex;
+    flex-direction: column;
+}
+
+.logo-container{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    align-items: center;
+}
+

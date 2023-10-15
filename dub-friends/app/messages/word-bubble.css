@@ -1,0 +1,33 @@
+.bubble{
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.bubble-container{
+    display: flex;
+    align-items: flex-end;
+    gap: 10px;
+
+    margin-bottom: 25px;
+}
+
+.my-bubble-container{
+
+    flex-direction: row-reverse;
+
+}
+
+.partners-bubble-container{
+
+    flex-direction: row;
+
+
+}
+
+.my-bubble{
+    background-color: #C592E8;
+}
+
+.partners-bubble{
+    background-color: #D9D9D9;
+}

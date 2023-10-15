@@ -1,0 +1,27 @@
+.nav-bar-icon{
+    width: 32px;
+    height: 32px;
+}
+
+.nav-link{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+    color: #7626AB;
+    font-size: 16px;
+    font-weight: 200;
+}
+
+.find-friends-div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0;
+}
+
+.find-friends-span{
+    height: 16px;
+}
